@@ -1,3 +1,2 @@
 # Game_summary
-
-Historical classes with the help of games. 
+Best way to educate kids is to let them play games.
